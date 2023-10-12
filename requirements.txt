@@ -1,4 +1,6 @@
 jupyter
+pandas
 geopandas
 plotly
 pyarrow
+pyinstaller
